@@ -1,0 +1,12 @@
+{
+  "name": "homework-11-task-3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Завдання 3. Система бронювання готелю",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "serve": "npx serve ."
+  }
+}
+

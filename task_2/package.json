@@ -1,0 +1,12 @@
+{
+  "name": "homework-11-task-2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Завдання 2. Каталог онлайн-курсів",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "serve": "npx serve ."
+  }
+}
+

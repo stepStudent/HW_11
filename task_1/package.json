@@ -1,0 +1,11 @@
+{
+  "name": "homework-11-task-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Завдання 1. Калькулятор зарплати працівників",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "serve": "npx serve ."
+  }
+}
